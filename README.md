@@ -5,6 +5,15 @@ Il est possible de naviguer sur la page via les rubriques de la barre de navigat
 
 La navigation dans les différentes formations ou expériences se fait via un carroussel.
 
+==============================================
+
+This digital CV in a project, a single page, developed exclusively in Bootstrap.
+
+You can browse in the page via headings found in the navbar fixe on the top of page. The browse is done with anchor links. 
+
+The browse in different educations or work experience is done via carousel.
+
+
 ![Screenshot](./img/readme/cv_part1.png)
 ##### <center> *Fig.1 CV-information* </center> <br>
 
@@ -20,6 +29,11 @@ La navigation dans les différentes formations ou expériences se fait via un ca
 
 Vous devez cloner le dossier avec la commande suivante : 
 
+==============================================
+
+You have to clone the repository with this command line : 
+
+
 ```bash
 $ git clone <repository>
 ```
@@ -28,3 +42,7 @@ $ git clone <repository>
 ## 2. Lancement 
 
 Le projet se lance en ouvrant le fichier "index.html" sur un navigateur. 
+
+==============================================
+
+For launch the project you have to open the file "index.html" in a browser.
